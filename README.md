@@ -21,7 +21,7 @@ class BurntToastGod:
                          "Open Source", "Automation", "Tech Innovation"]
         self.currently_learning = ["Advanced AI Tools", "Code Generation",
                                   "Cloud Technologies", "DevOps"]
-        self.fun_fact = "I turn coffee into code ☕️➡️💻"
+        self.fun_fact = "I turn crystal meth into code 🧊➡️💻"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
